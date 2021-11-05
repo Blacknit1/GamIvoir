@@ -1,0 +1,41 @@
+body {
+  background-image: url(../../assets/img/back.jpg);
+  background-size: cover;
+}
+
+.contain {
+  position: absolute;
+  right: 0px;
+  width: 412px;
+  height: 100vh;
+  background-color: #ffffff;
+  background-color: white;
+}
+
+.form {
+  position: relative;
+  top: 17vh;
+}
+
+.champ {
+  margin-top: 25px;
+  border: none;
+  background-color: rgba(86,255,221,0.16);
+  padding: 10px;
+}
+
+button, input {
+  outline: none;
+  border: none;
+}
+
+.btn.btn-primary.text-center.d-lg-flex {
+  margin-top: 28px;
+  width: 138px;
+  font-size: 19px;
+  background-color: #56FFDD;
+  border: none;
+  margin-left: 135px;
+  margin-bottom: 15px;
+}
+
