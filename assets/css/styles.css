@@ -1,0 +1,53 @@
+.Article {
+  display: inline;
+  width: 400px;
+  margin: 15px;
+}
+
+.h1, h1 {
+  color: #56FFDD;
+}
+
+.navbar.navbar-light.navbar-expand-md {
+  background-color: #56FFDD;
+}
+
+.navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show > .nav-link {
+  color: white;
+  font-size: 25px;
+  border: none;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: rgba(255,255,255,0.87);
+  font-size: 25px;
+}
+
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+  color: white;
+}
+
+hr {
+  border: 1px solid rgb(255,202,104);
+}
+
+.h1, h1 {
+  margin: 0px 10px;
+}
+
+#ecm {
+  margin-top: 120px;
+}
+
+a {
+  outline: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+[type=button]:not(:disabled), [type=reset]:not(:disabled), [type=submit]:not(:disabled), button:not(:disabled) {
+  border: none;
+}
+

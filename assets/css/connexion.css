@@ -1,0 +1,54 @@
+.containC {
+  position: absolute;
+  right: 0px;
+  width: 412px;
+  height: 100vh;
+  background-color: rgba(0,0,0,0.76);
+}
+
+.formC {
+  position: relative;
+  top: 30vh;
+}
+
+.champC {
+  padding: 10px;
+  background-color: rgba(86,255,221,0.16);
+  margin-top: 30px;
+}
+
+.btn.btn-primary.text-center.d-lg-flex {
+  margin-top: 28px;
+  width: 138px;
+  font-size: 19px;
+  background-color: #56FFDD;
+  border: none;
+  margin-left: 135px;
+  margin-bottom: 15px;
+}
+
+body {
+  background-image: url(../../assets/img/back.jpg);
+  background-size: cover;
+}
+
+button, input {
+  border: none;
+  outline: none;
+  background-color: rgba(255,255,255,0);
+  margin-left: 10px;
+  color: white;
+  width: 250px;
+  padding: 6px;
+}
+
+button, input {
+  border: none;
+  outline: none;
+  background-color: rgba(255,255,255,0);
+  margin-left: 10px;
+  color: white;
+  width: 250px;
+  padding: 6px;
+}
+
